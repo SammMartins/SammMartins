@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 [![Sammuel Martins](https://img.shields.io/badge/sammuel--martins-website-green?colorA=61c265&colorB=4CAF50&style=for-the-badge)](https://sammuel.sammuelgusmao.repl.co)
 [![Sammuel Martins](https://img.shields.io/badge/sammuel--martins-github-blue?style=for-the-badge)](https://github.com/SammMartins)
 
-### Olá! Eu sou Sammuel Gusmão Martins 👋
+### Olá! 👋
 
 <p>
-  Tenho 23 anos, sou Analista de Sistemas e moro em Vitória da Conquista - BA. Atualmente trabalho na Premium Distribuidora VCA como Analista de Suporte de TI e Analista de Dados.
+  Me chamo Sammuel Gusmão Martins, tenho 23 anos. Sou Analista de Sistemas e moro em Vitória da Conquista - BA. Atualmente trabalho na Premium Distribuidora VCA como Analista de Suporte de TI e Analista de Dados.
 </p>
 
 - 🎓 Cursando o 4º semestre do Bacharelado em Sistema de Informação na UNIFTC (Vitória da Conquista).
