@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Sammuel Martins](https://img.shields.io/badge/sammuel--martins-website-green?colorA=61c265&colorB=4CAF50&style=for-the-badge)](https://sammuel.sammuelgusmao.repl.co)
-[![Sammuel Martins](https://img.shields.io/badge/sammuel--martins-github-blue?style=for-the-badge)](https://github.com/SammMartins)
 
 ### Olá! 👋
 
