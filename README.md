@@ -1,18 +1,11 @@
 <!--
-**SammMartins/SammMartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Sammuel Martins](https://img.shields.io/badge/sammuel--martins-website-green?colorA=61c265&colorB=4CAF50&style=for-the-badge)](https://sammuel.sammuelgusmao.repl.co) 
+-->   
 
-Here are some ideas to get you started:
+<div> 
+  <a href="https://www.linkedin.com/in/sammuel-gusm%C3%A3o-martins-954738256/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Sammuel Martins](https://img.shields.io/badge/sammuel--martins-website-green?colorA=61c265&colorB=4CAF50&style=for-the-badge)](https://sammuel.sammuelgusmao.repl.co)
 
 ### Olá! 👋
 
@@ -30,14 +23,29 @@ Here are some ideas to get you started:
 - Back End - Java - Python
 - Front End - JavaScript - HTML - CSS
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SammMartins&show_icons=true&theme=synthwave)
+##
+
+
 
 ### My Coding Activity 🚀
+<div style="display: inline_block"> <br>
+  <img align="center" hight="40" width="50" src="https://oralytics.files.wordpress.com/2022/10/sql_icon-1.png" /> .  
+  <img align="center" hight="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> .
+  <img align="center" hight="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> .
+  <img align="center" hight="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /> .
+  <img align="center" hight="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /> .
+  <img align="center" hight="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />   .
+  <img align="center" hight="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />   
+</div> <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SammMartins&theme=synthwave)](https://github.com/SammMartins) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SammMartins&theme=synthwave)](https://github.com/SammMartins) <br>
+<br> 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SammMartins&show_icons=true&theme=synthwave) 
+
+## 
 
 ### Projects 🔬 
 Alguns dos meus principais projetos:
-1. #### Projeto em Java com orientação a objeto e Interfaces Gráficas
+1. #### Projeto em Java com orientação a objeto e Interfaces Gráficas <img align="center" hight="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
    - Descrição: Trata-se de um sistema gerenciador de clientes. Através da integração do Java com o SQL, nosso programa estabelece uma conexão com um Banco de Dados Privado na nuvem. O sistema permite aos usuários realizarem as operações de CRUD (Create, Read, Update, Delete) no banco de dados, possibilitando o completo gerenciamento dos clientes. Programa criado durante a matéria de Programação Orientada a Objeto no Bacharelado em Sistema de Informação na UNIFTC (Vitória da Conquista).
    - GitHub Repository: [Link](https://github.com/SammMartins/Projeto-POO)
