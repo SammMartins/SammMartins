@@ -10,18 +10,17 @@
 ### Olá! 👋  
 
 <p>
-  Me chamo Sammuel Gusmão Martins, tenho 23 anos. Sou Analista de Sistemas e moro em Vitória da Conquista - BA. Atualmente trabalho na Premium Distribuidora VCA como Analista de Suporte de TI e Analista de Dados.
+  Me chamo Sammuel Gusmão Martins, tenho 23 anos. Sou Analista de Sistemas e moro em Vitória da Conquista - BA. Atualmente trabalho na Premium Distribuidora VCA como Analista de Suporte de TI e Programador SQL.
 </p>
 
 - 🎓 Cursando o 4º semestre do Bacharelado em Sistema de Informação na UNIFTC (Vitória da Conquista).
 - 🚀 Meu objetivo é me tornar um profissional de TI cada vez mais completo, com amplo conhecimento em tecnologia e sistemas da informação.
 
 **Minhas Principais Habilidades**
-- Desenvolvimento de software
-- Análise de dados - PL/SQL
 - Tecnologia da informação
-- Back End - Java - Python
-- Front End - JavaScript - HTML - CSS
+- Programador SQL - PL/SQL
+- Desenvolvimento de software
+- Full stack - Java - JavaScript
 
 ##
 
@@ -29,10 +28,10 @@
 
 ### My Coding Activity 🚀
 <div style="display: inline_block"> <br>
+  <img align="center" hight="40" width="50" src="https://cdn.icon-icons.com/icons2/273/PNG/256/icon_sql_256_30046.png" /> .   
   <img align="center" hight="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> .
   <img align="center" hight="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />   .
   <img align="center" hight="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />   .
-  <img align="center" hight="40" width="50" src="https://cdn.icon-icons.com/icons2/273/PNG/256/icon_sql_256_30046.png" /> .   
   <img align="center" hight="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> .
   <img align="center" hight="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /> .
   <img align="center" hight="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /> 
