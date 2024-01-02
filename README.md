@@ -10,11 +10,10 @@
 ### Olá! 👋  
 
 <p>
-  Me chamo Sammuel Gusmão Martins, tenho 23 anos. Sou Analista de Sistemas e moro em Vitória da Conquista - BA. Atualmente trabalho na Premium Distribuidora VCA como Analista de Suporte de TI e Programador SQL.
+  Sou Analista de Tecnologia, atuando profissionalemnte com Banco de dados (programação SQL) e Tecnologia da Informação. Atualmente trabalho em uma empresa local de distribuição como TI e Programador SQL. <br>  Em meu tempo livre, tenho dedicado ao estudo de Cibersegurança, Ciberinteligência e Contrainteligência Cibernética.
 </p>
-
-- 🎓 Cursando o 4º semestre do Bacharelado em Sistema de Informação na UNIFTC (Vitória da Conquista).
-- 🚀 Meu objetivo é me tornar um profissional de TI cada vez mais completo, com amplo conhecimento em tecnologia e sistemas da informação.
+🎓 Curso Sistema de Informação na faculdade FTC.
+🚀 Meu objetivo é me desenvolver como profissional de TI, adquirindo conhecimentos em tecnologia e sistemas da informação.
 
 **Minhas Principais Habilidades**
 - Tecnologia da informação
