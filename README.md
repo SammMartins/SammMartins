@@ -12,7 +12,7 @@
 <p>
   Sou Analista de Tecnologia, atuando profissionalemnte com Banco de dados (programação SQL) e Tecnologia da Informação. Atualmente trabalho em uma empresa local de distribuição como TI e Programador SQL. <br>  Em meu tempo livre, tenho dedicado ao estudo de Cibersegurança, Ciberinteligência e Contrainteligência Cibernética.
 </p>
-🎓 Curso Sistema de Informação na faculdade FTC.
+🎓 Curso Sistema de Informação na faculdade FTC. <br>
 🚀 Meu objetivo é me desenvolver como profissional de TI, adquirindo conhecimentos em tecnologia e sistemas da informação.
 
 **Minhas Principais Habilidades**
