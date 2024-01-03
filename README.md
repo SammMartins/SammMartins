@@ -45,5 +45,5 @@
 ### Projects 🔬 
 Alguns dos meus principais projetos:
 1. #### Projeto em Java com orientação a objeto e Interfaces Gráficas <img align="center" hight="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
-   - Descrição: Trata-se de um sistema gerenciador de clientes. Através da integração do Java com o SQL, nosso programa estabelece uma conexão com um Banco de Dados Privado na nuvem. O sistema permite aos usuários realizarem as operações de CRUD (Create, Read, Update, Delete) no banco de dados, possibilitando o completo gerenciamento dos clientes. Programa criado durante a matéria de Programação Orientada a Objeto no Bacharelado em Sistema de Informação na UNIFTC (Vitória da Conquista).
+   - Descrição: Trata-se de um sistema gerenciador de clientes. Através da integração do Java com o SQL, nosso programa estabelece uma conexão com um Banco de Dados Privado na nuvem. O sistema permite aos usuários realizarem as operações de CRUD (Create, Read, Update, Delete) no banco de dados, possibilitando o completo gerenciamento dos clientes. Programa criado durante a matéria de Programação Orientada a Objeto no Bacharelado em Sistema de Informação.
    - GitHub Repository: [Link](https://github.com/SammMartins/Projeto-POO)
