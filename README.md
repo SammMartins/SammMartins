@@ -1,22 +1,12 @@
-<!--
-
-[![Sammuel Martins](https://img.shields.io/badge/sammuel--martins-website-green?colorA=61c265&colorB=4CAF50&style=for-the-badge)](https://sammuel.sammuelgusmao.repl.co) 
-
--->   
-
-<div> 
-  <a href="https://www.linkedin.com/in/sammuel-martins-954738256" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+<div align="center">
+  <div> 
+    <a href="https://www.linkedin.com/in/sammuel-martins-954738256" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  </div>
 </div>
-
-## Sumário
-
-- [Olá! 👋](#olá)
-- [My Coding Activity 🚀](#my-coding-activity)
-- [Projects 🔬](#projects)
 
 ---
 
-### Olá! 👋  
+## Olá! 👋  
 
 <p>
   Sou Analista de Sistemas, atuando profissionalmente com Banco de dados (programação SQL) e Tecnologia da Informação. <br>  Em meu tempo livre, tenho me dedicado ao estudo de Cibersegurança, Ciberinteligência e Contrainteligência Cibernética.
@@ -30,11 +20,7 @@
 - Desenvolvimento de software
 - Full stack - Java - JavaScript
 
-##
-
-
-
-### My Coding Activity 🚀
+## My Coding Activity 🚀
 <div style="display: inline_block"> <br>
   <img align="center" hight="40" width="50" src="https://cdn.icon-icons.com/icons2/273/PNG/256/icon_sql_256_30046.png" /> .   
   <img align="center" hight="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> .
@@ -50,13 +36,12 @@
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SammMartins&show_icons=true&theme=synthwave) 
 -->   
-## 
-
-### Projects 🔬 
+## Projects 🔬 
 Alguns dos meus principais projetos:
-1. #### Projeto em Java com orientação a objeto e Interfaces Gráficas <img align="center" hight="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
+
+1. #### [Projeto em Java com orientação a objeto e Interfaces Gráficas](https://github.com/SammMartins/Projeto-POO) <img align="center" hight="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
    - Descrição: Trata-se de um sistema gerenciador de clientes. Através da integração do Java com o SQL, nosso programa estabelece uma conexão com um Banco de Dados Privado na nuvem. O sistema permite aos usuários realizarem as operações de CRUD (Create, Read, Update, Delete) no banco de dados, possibilitando o completo gerenciamento dos clientes. Programa criado durante a matéria de Programação Orientada a Objeto no Bacharelado em Sistema de Informação.
-   - GitHub Repository: [Link](https://github.com/SammMartins/Projeto-POO)
-2. #### RRT - Rain in Real Time <img align="center" hight="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" /> <img align="center" hight="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> <img align="center" hight="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /> <img align="center" hight="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+
+2. #### [RRT - Rain in Real Time](https://github.com/Amigos-FTC/RainingInRealTime) <img align="center" hight="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" /> <img align="center" hight="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> <img align="center" hight="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /> <img align="center" hight="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
    - Descrição: O projeto RRT propõe uma solução inovadora para o monitoramento em tempo real de condições climáticas, com foco na detecção de chuva - em tempo real. A iniciativa integra conhecimentos das disciplinas de Técnicas de Programação Web (TPW) e Inteligência Artificial (IA), visando proporcionar benefícios significativos à comunidade.
-   - GitHub Repository: [Link](https://github.com/Amigos-FTC/RainingInRealTime)
+
