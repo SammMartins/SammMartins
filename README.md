@@ -1,11 +1,20 @@
 <!--
+
 [![Sammuel Martins](https://img.shields.io/badge/sammuel--martins-website-green?colorA=61c265&colorB=4CAF50&style=for-the-badge)](https://sammuel.sammuelgusmao.repl.co) 
+
 -->   
 
 <div> 
   <a href="https://www.linkedin.com/in/sammuel-martins-954738256" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
+## Sumário
+
+- [Olá! 👋](#olá)
+- [My Coding Activity 🚀](#my-coding-activity)
+- [Projects 🔬](#projects)
+
+---
 
 ### Olá! 👋  
 
