@@ -13,12 +13,12 @@
 </p>
 🎓 Curso Sistema de Informação na faculdade FTC. <br>
 🚀 Meu objetivo é me desenvolver como profissional de TI, adquirindo conhecimentos em tecnologia e sistemas da informação.
-
+<br>
 **Minhas Principais Habilidades**
 - Tecnologia da informação
-- Programador SQL - PL/SQL
-- Desenvolvimento de software
-- Full stack - Java - JavaScript
+- Programação SQL - PL/SQL
+- OSINT e Ciberinteligência
+- Desenvolvimento de software Full stack
 
 ## My Coding Activity 🚀
 <div style="display: inline_block"> <br>
