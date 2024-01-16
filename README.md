@@ -11,7 +11,7 @@
 <p>
   Sou Analista de Sistemas, atuando profissionalmente com Banco de dados (programação SQL) e Tecnologia da Informação. <br>  Em meu tempo livre, tenho me dedicado ao estudo de Cibersegurança, Ciberinteligência e Contrainteligência Cibernética.
 </p>
-🎓 Curso Sistema de Informação na faculdade FTC. <br>
+🎓 Curso Sistemas de Informação. <br>
 🚀 Meu objetivo é me desenvolver como profissional de TI, adquirindo conhecimentos em tecnologia e sistemas da informação. <br><br>
 
 **Minhas Principais Habilidades**
