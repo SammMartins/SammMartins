@@ -5,8 +5,11 @@
 </div>
 
 ---
+<div align="left">
 
-## Olá! 👋  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&weight=800&duration=3000&pause=1008&color=14CD43&width=435&lines=Welcome+to+my+profile+on+GitHub;I'm+SammMartins)](https://git.io/typing-svg)
+
+</div>
 
 <p>
   Sou Analista de Sistemas, atuando profissionalmente com Banco de dados (programação SQL) e Tecnologia da Informação. <br>  Em meu tempo livre, tenho me dedicado ao estudo de Cibersegurança, Ciberinteligência e Contrainteligência Cibernética.
@@ -19,8 +22,6 @@
 - Programação SQL - PL/SQL
 - OSINT e Ciberinteligência
 - Desenvolvimento de software Full stack
-
-## My Coding Activity 🚀
 <div style="display: inline_block"> <br>
   <img align="center" hight="40" width="50" src="https://cdn.icon-icons.com/icons2/273/PNG/256/icon_sql_256_30046.png" /> .   
   <img align="center" hight="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> .
@@ -31,12 +32,18 @@
   <img align="center" hight="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /> 
 </div> <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SammMartins&theme=synthwave)](https://github.com/SammMartins) <br>
-<br> 
+## My Coding Activity 🚀
+<div align="center" style="margin-bottom=100px">
+<img width=55% align="left" src="https://github-readme-streak-stats.herokuapp.com?user=SammMartins&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-seven-pied-77.vercel.app/api/top-langs/?username=SammMartins&show_icons=true&theme=radical&layout=compact" />
+</div> 
+<br>
+<br>
+
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SammMartins&show_icons=true&theme=synthwave) 
 -->   
-## Projects 🔬 
+## Main Projects 🔬 
 Alguns dos meus principais projetos:
 
 1. #### [Projeto em Java com orientação a objeto e Interfaces Gráficas](https://github.com/SammMartins/Projeto-POO) <img align="center" hight="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
