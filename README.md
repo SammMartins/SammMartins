@@ -1,15 +1,8 @@
-<div align="center">
-  <div> 
-    <a href="https://www.linkedin.com/in/sammuel-martins-954738256" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-  </div>
-</div>
 
 ---
-<div align="left">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&weight=800&duration=3000&pause=1508&color=14CD43&width=435&lines=Welcome+to+my+profile+on+GitHub;I'm+Systems+Analyst+in+Brazil)](https://git.io/typing-svg)
-
-</div>
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&weight=1000&duration=3000&pause=1508&color=14CD43&width=435&lines=Welcome+to+my+profile+on+GitHub;I'm+Systems+Analyst+in+Brazil)](https://git.io/typing-svg)
+  
 
 <p>
   Sou Analista de Sistemas, atuando profissionalmente com Banco de dados (programação SQL) e Tecnologia da Informação. <br>  Em meu tempo livre, tenho me dedicado ao estudo de Cibersegurança, Ciberinteligência e Contrainteligência Cibernética.
