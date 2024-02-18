@@ -7,7 +7,7 @@
 ---
 <div align="left">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&weight=800&duration=3000&pause=1008&color=14CD43&width=435&lines=Welcome+to+my+profile+on+GitHub;I'm+SammMartins)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&weight=800&duration=3000&pause=1508&color=14CD43&width=435&lines=Welcome+to+my+profile+on+GitHub;I'm+Systems+Analyst+in+Brazil)](https://git.io/typing-svg)
 
 </div>
 
@@ -33,12 +33,12 @@
 </div> <br>
 
 ## My Coding Activity 🚀
-<div align="center" style="margin-bottom=100px">
-<img width=55% align="left" src="https://github-readme-streak-stats.herokuapp.com?user=SammMartins&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-seven-pied-77.vercel.app/api/top-langs/?username=SammMartins&show_icons=true&theme=radical&layout=compact" />
-</div> 
-<br>
-<br>
+<div align="center" style="display: inline_block">
+  <img width=50%  src="https://github-readme-streak-stats.herokuapp.com?user=SammMartins&theme=radical&mode=weekly" />
+</div> <br>
+<div align="center" style="display: inline_block">
+  <img width=50% src="https://github-readme-stats-seven-pied-77.vercel.app/api/top-langs/?username=SammMartins&show_icons=true&theme=radical&layout=compact" />
+</div> <br>
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SammMartins&show_icons=true&theme=synthwave) 
