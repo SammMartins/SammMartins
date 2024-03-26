@@ -5,14 +5,13 @@
   
 
 <p>
-  Sou Analista de Sistemas, atuando profissionalmente com Banco de dados (programação SQL) e Tecnologia da Informação. <br>  Em meu tempo livre, tenho me dedicado ao estudo de Ciberinteligência e desenvolvimento de software.
+👤  Analista de Sistemas, atuando profissionalmente com Banco de Dados (programação SQL) e Administração de TI. <br>  Em meu tempo livre, tenho me dedicado ao estudo da Ciberinteligência e desenvolvimento de software<br><br>
+🎓  Bacharel em Sistemas de Informação <br><br>
+🚀  Meu objetivo é me desenvolver como profissional polímata, adquirindo conhecimentos avançados em tecnologias e sistemas da informação
 </p>
-🎓 Curso Sistemas de Informação. <br>
-🚀 Meu objetivo é me desenvolver como profissional, adquirindo conhecimentos em tecnologia e sistemas da informação. <br><br>
 
 **Minhas Principais Habilidades**
-- Tecnologia da informação
-- Programação SQL - PL/SQL
+- Programação SQL
 - OSINT e Ciberinteligência
 - Desenvolvimento de software Full stack
 <div style="display: inline_block"> <br>
