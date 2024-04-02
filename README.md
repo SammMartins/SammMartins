@@ -1,7 +1,7 @@
 
 ---
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&weight=1000&duration=3000&pause=1508&color=14CD43&width=435&lines=Welcome+to+my+profile+on+GitHub;I'm+Systems+Analyst+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&duration=3000&pause=2000&color=38C2FF&random=false&width=436&height=100&lines=Welcome+to+my+profile+on+GitHub;I'm+Systems+Analyst)](https://git.io/typing-svg)
   
 
 <p>
