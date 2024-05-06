@@ -5,7 +5,7 @@
   
 
 <p>
-👤  Analista de Sistemas, atuando profissionalmente com programação SQL, Administração de TI e Analista de Contrainteligência Corporativa. Em meu tempo livre, tenho me dedicado ao estudo da cibersegurança e desenvolvimento de software <br><br>
+👤  Analista de Sistemas, atuando profissionalmente com Programação SQL e Ciência de dados, Administração de TI e Analista de Contrainteligência Corporativa. Em meu tempo livre, tenho me dedicado ao estudo da cibersegurança e desenvolvimento de software <br><br>
 🚀  Meu objetivo é me desenvolver como profissional polímata, adquirindo conhecimentos avançados em tecnologias e sistemas da informação <br><br>
 🎓  Bacharel em Sistemas de Informação | Analista de Contrainteligência e OSINT pela Division Safe Sec
 </p>
