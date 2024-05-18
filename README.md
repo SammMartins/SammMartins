@@ -11,9 +11,11 @@
 </p>
 
 **Minhas Principais Habilidades**
+- SysAdmin e Servidores Web
 - Programação SQL
-- OSINT e Ciberinteligência
+- B.I. - Python Dashboards
 - Desenvolvimento de software Full stack
+- OSINT e Ciberinteligência
 <div style="display: inline_block"> <br>
   <img align="center" hight="40" width="50" src="https://cdn.icon-icons.com/icons2/273/PNG/256/icon_sql_256_30046.png" /> .   
   <img align="center" hight="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> .
