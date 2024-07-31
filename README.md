@@ -5,16 +5,15 @@
   
 
 <p>
-👤  Analista de Sistemas, atuando profissionalmente com Programação SQL e Ciência de dados, Administração de TI e Analista de Contrainteligência Corporativa. Em meu tempo livre, tenho me dedicado ao estudo da cibersegurança e desenvolvimento de software <br><br>
-🚀  Meu objetivo é me desenvolver como profissional polímata, adquirindo conhecimentos avançados em tecnologias e sistemas da informação <br><br>
+👤  Analista de Sistemas, atuando profissionalmente com Administração de TI, Ciência e análise de dados, e Contrainteligência Corporativa. <br><br>
+🚀  Meu objetivo é me desenvolver como profissional polímata e adquirir conhecimentos avançados em tecnologias e sistemas <br><br>
 🎓  Bacharel em Sistemas de Informação | Analista de Contrainteligência e OSINT pela Division Safe Sec
 </p>
 
 **Minhas Principais Habilidades**
 - SysAdmin e Servidores Web
-- Programação SQL
-- B.I. - Python Dashboards
-- Desenvolvimento de software Full stack
+- Programação SQL - Python Dashboards
+- Desenvolvimento back-end
 - OSINT e Ciberinteligência
 <div style="display: inline_block"> <br>
   <img align="center" hight="40" width="50" src="https://cdn.icon-icons.com/icons2/273/PNG/256/icon_sql_256_30046.png" /> .   
@@ -40,9 +39,8 @@
 ## Main Projects 🔬 
 Alguns dos meus principais projetos:
 
-1. #### [Projeto em Java com orientação a objeto e Interfaces Gráficas](https://github.com/SammMartins/Projeto-POO) <img align="center" hight="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
+1. #### [RRT - Rain in Real Time](https://github.com/Amigos-FTC/RainingInRealTime) <img align="center" hight="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" /> <img align="center" hight="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> <img align="center" hight="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /> <img align="center" hight="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+   - Descrição: O projeto RRT propõe uma solução inovadora para o monitoramento em tempo real de condições climáticas, com foco na detecção de chuva - em tempo real. A iniciativa integra conhecimentos de Programação Web e dispositivos IoT visando proporcionar benefícios significativos à comunidade.
+
+2. #### [Projeto em Java com orientação a objeto e Interfaces Gráficas](https://github.com/SammMartins/Projeto-POO) <img align="center" hight="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
    - Descrição: Trata-se de um sistema gerenciador de clientes. Através da integração do Java com o SQL, nosso programa estabelece uma conexão com um Banco de Dados Privado na nuvem. O sistema permite aos usuários realizarem as operações de CRUD (Create, Read, Update, Delete) no banco de dados, possibilitando o completo gerenciamento dos clientes. Programa criado durante a matéria de Programação Orientada a Objeto no Bacharelado em Sistema de Informação.
-
-2. #### [RRT - Rain in Real Time](https://github.com/Amigos-FTC/RainingInRealTime) <img align="center" hight="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" /> <img align="center" hight="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> <img align="center" hight="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /> <img align="center" hight="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-   - Descrição: O projeto RRT propõe uma solução inovadora para o monitoramento em tempo real de condições climáticas, com foco na detecção de chuva - em tempo real. A iniciativa integra conhecimentos das disciplinas de Técnicas de Programação Web (TPW) e Inteligência Artificial (IA), visando proporcionar benefícios significativos à comunidade.
-
