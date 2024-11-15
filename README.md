@@ -2,7 +2,7 @@
 
 # 👨‍💼 Sobre
 
-👤 Analista de Sistemas, atuando profissionalmente com Administração de TI, Ciência e análise de dados, e Contrainteligência Corporativa.<br><br>🎓 Bacharel em Sistemas de Informação | Analista de Contrainteligência e OSINT pela Division Safe Sec<br><br>🚀 Meu objetivo é o desenvolvimento como profissional polímata e adquirir conhecimentos avançados em tecnologias e sistemas<br>
+👤 Analista de Sistemas, atuando profissionalmente com Administração de TI, Ciência e análise de dados, e Contrainteligência Corporativa.<br><br>🎓 Bacharel em Sistemas de Informação | Analista de Contrainteligência e OSINT pela Division Safe Sec<br><br>🚀 Meu objetivo é o desenvolvimento como profissional polímata adquirindo conhecimentos avançados em tecnologias e sistemas<br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&duration=3000&pause=2000&color=38C2FF&random=false&width=436&height=100&lines=Welcome+to+my+profile+on+GitHub;I'm+Systems+Analyst)](https://git.io/typing-svg)
 
