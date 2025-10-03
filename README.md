@@ -1,5 +1,5 @@
 # 👨‍💼 Sobre
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cyberwise.tech) 
+<!--[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cyberwise.tech) -->
 
 👤 Analista de Sistemas, atuando profissionalmente com Administração de TI, Ciência e análise de dados, e Contrainteligência Corporativa.<br><br>🎓 Bacharel em Sistemas de Informação | Analista de Contrainteligência e OSINT pela Division Safe Sec<br><br>🚀 Meu objetivo é o desenvolvimento como profissional polímata adquirindo conhecimentos avançados em tecnologias e sistemas<br>
 
