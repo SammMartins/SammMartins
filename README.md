@@ -1,30 +1,167 @@
-# 👨‍💼 Sobre
-<!--[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cyberwise.tech) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1200&color=38C2FF&center=true&vCenter=true&width=700&lines=Systems+Analysis+%7C+Linux+%7C+Automation;Building+lsdisk+%E2%80%94+Discover+the+Project" alt="Typing SVG" />
+</p>
 
-👤 Analista de Sistemas, atuando profissionalmente com Administração de TI, Ciência e análise de dados, e Contrainteligência Corporativa.<br><br>🎓 Bacharel em Sistemas de Informação | Analista de Contrainteligência e OSINT pela Division Safe Sec<br><br>🚀 Meu objetivo é o desenvolvimento como profissional polímata adquirindo conhecimentos avançados em tecnologias e sistemas<br>
+<p align="center">
+  <a href="https://github.com/SammMartins">
+    <img src="https://img.shields.io/badge/GitHub-SammMartins-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
+  </a>
+  <a href="https://github.com/SammMartins/lsdisk">
+    <img src="https://img.shields.io/badge/Featured%20Project-lsdisk-38C2FF?style=for-the-badge&logo=linux&logoColor=white" alt="Featured Project lsdisk" />
+  </a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&duration=3000&pause=2000&color=38C2FF&random=false&width=436&height=100&lines=Welcome+to+my+profile+on+GitHub;I'm+Systems+Analyst)](https://git.io/typing-svg)
+## About Me
 
-# 💻 Skills
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![STREAMLIT](https://img.shields.io/badge/streamlit-%23D42029.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
+Systems Analyst with a background in Information Systems and professional experience in IT administration, data analysis, automation, and corporate counterintelligence.
 
-# 🔬 Projetos  
-Alguns dos meus principais projetos:
-1. #### [Premium Dashboards - Plataforma de Inteligência de Negócios (BI)](https://github.com/SammMartins/PremiumDash) <img align="center" hight="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> <img align="center" hight="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" /> <img align="center" hight="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" /> <img align="center" hight="60" width="70" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" /> <img align="center" hight="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" />
-   - Descrição: Projeto próprio, para a Premium Distribuidora VCA. Desenvolvimento de uma plataforma de Business Intelligence (BI), utilizando Python e Streamlit, com o objetivo de criar dashboards interativos para suporte na tomada de decisão em diferentes setores da empresa. A solução permite a visualização de dados atualizados, extraídos via consultas SQL (Oracle), e apresentados por meio de gráficos e tabelas, utilizando bibliotecas como Pandas, Plotly, dentre outras.
+I focus on building practical software solutions, improving technical workflows, exploring Linux systems, and transforming data into actionable information.
 
-2. #### [Automação - send-emails](https://github.com/SammMartins/send-email/) <img align="center" hight="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> <img align="center" hight="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" /> 
-   - Descrição: Projeto para automatização do envio de e-mails para o setor de Suporte da empresa TIVIC. Através de listas de contatos, a ferramenta envia o e-mail personalizado para cada cliente.
+- **Education:** Bachelor's Degree in Information Systems
+- **Specialization:** Corporate Counterintelligence and OSINT — Division Safe Sec
+- **Interests:** Linux, software engineering, infrastructure automation, data analytics, and pretty much anything that sparks my curiosity — listing everything would probably take longer than writing this README.
+- **Current Focus:** Developing lsdisk and bringing other ideas to life.
 
-3. #### [RRT - Rain in Real Time](https://github.com/Amigos-FTC/RainingInRealTime) <img align="center" hight="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" /> <img align="center" hight="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> <img align="center" hight="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /> <img align="center" hight="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-   - Descrição: O projeto RRT propõe uma solução inovadora para o monitoramento em tempo real de condições climáticas, com foco na detecção de chuva - em tempo real. A iniciativa integra conhecimentos de Programação Web e dispositivos IoT visando proporcionar benefícios significativos à comunidade.
+---
 
-4. #### [Projeto em Java com orientação a objeto e Interfaces Gráficas](https://github.com/SammMartins/Projeto-POO) <img align="center" hight="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
-   - Descrição: Trata-se de um sistema gerenciador de clientes. Através da integração do Java com o SQL, nosso programa estabelece uma conexão com um Banco de Dados Privado na nuvem. O sistema permite aos usuários realizarem as operações de CRUD (Create, Read, Update, Delete) no banco de dados, possibilitando o completo gerenciamento dos clientes. Programa criado durante a matéria de Programação Orientada a Objeto no Bacharelado em Sistema de Informação.
+## Current project
+
+<p align="center">
+  <a href="https://github.com/SammMartins/lsdisk">
+    <img src="https://img.shields.io/badge/lsdisk-Linux%20Storage%20Explorer-38C2FF?style=for-the-badge&logo=linux&logoColor=white" alt="lsdisk Linux Storage Explorer" />
+  </a>
+</p>
+
+### lsdisk — Linux Storage Explorer
+
+**Understand your disks, partitions, and filesystems — clearly, safely, and from the terminal.**
+
+[lsdisk](https://github.com/SammMartins/lsdisk) is an open-source command-line utility written in Python that provides a clear overview of storage devices and their organization on Linux systems.
+
+The project aims to simplify storage inspection through structured information, readable terminal output, and a design intended for use across different Linux distributions.
+
+**Technology Stack**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/CLI-333333?style=for-the-badge&logo=gnubash&logoColor=white" alt="CLI" />
+  <img src="https://img.shields.io/badge/Open%20Source-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Open Source" />
+</p>
+
+**Key Features**
+
+- **Storage Inventory:** Identify physical disks and storage devices, including HDDs, SSDs, and flash drives.
+- **Partition Overview:** Inspect partitions, filesystems, mount points, and storage capacity.
+- **Usage Visualization:** Review storage utilization through readable summaries and visual usage bars.
+- **Command-Line Interface:** Access storage information through a dedicated CLI with help and command options.
+- **JSON Output:** Retrieve structured storage information for integration with other tools and scripts.
+- **User-Level Installation:** Install and uninstall the application within the user's local environment.
 
 
-# 📊 Github
-<div align="center" style="display: inline_block">
-  <img width=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=SammMartins&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</div> <br>
+
+---
+
+## Technologies & Tools
+
+### Core Tech
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=for-the-badge" alt="Prompt Engineering" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+### Data Analysis & Business Intelligence
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+</p>
+
+### AI Tools & Development
+
+<p>
+  <img src="https://img.shields.io/badge/OpenCode-1F1F1F?style=for-the-badge&logo=opencode&logoColor=white" alt="OpenCode" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+</p>
+
+### Infrastructure & DevOps
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+</p>
+
+### Cybersecurity, OSINT & Digital Investigation
+
+<p>
+  <img src="https://img.shields.io/badge/OSINT-Open%20Source%20Intelligence-34495E?style=for-the-badge" alt="OSINT" />
+  <img src="https://img.shields.io/badge/Tor-7E4798?style=for-the-badge&logo=torproject&logoColor=white" alt="Tor" />
+  <img src="https://img.shields.io/badge/VPN-2C5F8A?style=for-the-badge&logoColor=white" alt="VPN" />
+  <img src="https://img.shields.io/badge/Proxy-526D82?style=for-the-badge&logoColor=white" alt="Proxy" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Digital%20Forensics-34495E?style=for-the-badge" alt="Digital Forensics" />
+</p>
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SammMartins&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SammMartins&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SammMartins&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
+
+---
+
+## Other Projects
+
+These projects reflect my early career and academic journey during my Bachelor's Degree in Information Systems, when I was building my foundations in software development, data analysis, and IoT.
+
+### 1. [Premium Dashboards — Business Intelligence](https://github.com/SammMartins/PremiumDash)
+
+Interactive BI dashboards for business data analysis and decision support.
+
+**Technologies:** Python, Streamlit, Pandas, Plotly, Oracle SQL, Nginx.
+
+### 2. [send-email — Email Automation](https://github.com/SammMartins/send-email)
+
+Automated email distribution with personalized messages based on contact lists.
+
+**Technologies:** Python, Streamlit.
+
+### 3. [RRT — Rain in Real Time](https://github.com/Amigos-FTC/RainingInRealTime)
+
+An IoT and web application for real-time rainfall monitoring.
+
+**Technologies:** Arduino, JavaScript, HTML, CSS.
+
+### 4. [Java OOP — Customer Management System](https://github.com/SammMartins/Projeto-POO)
+
+A customer management system featuring CRUD operations and SQL database integration.
+
+**Technologies:** Java, SQL, Object-Oriented Programming.
 
